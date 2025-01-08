@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KoushikRoyal&theme=matrix" alt="KoushikRoyal" /></a> </p>
 
-- 🔭 I’m currently working on ** Selenium tool in Software Testing**
+- 🔭 I’m currently working as ** MERN Stack Developer**
 - 👯 I’m looking to collaborate on **Web Development Projects**
 - 🤝 I’m looking for help with **Deep Learning Related Project**
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **HTML,CSS,Spring,SpringBoot,Selenium tools**
 - 📫 How to reach me **2100031449cseh@gmail.com**
 - 👨‍💻 All of my projects are available at **https://koushikroyal.netlify.app/**
